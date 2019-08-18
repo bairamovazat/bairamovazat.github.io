@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d410445-b2e8-4d40-928c-eea7d8a6e044" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/spinning.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_spinning.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/css/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/css/fontello-codes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/css/fontello-embedded.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/css/fontello-ie7-codes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/css/fontello-ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/font/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/font/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/font/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello/font/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/snake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/js.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="645" column="9" lean-forward="true" selection-start-line="645" selection-start-column="9" selection-end-line="645" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#svg#0;n#a#0;n#h2#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snake.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/snake.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/fonts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/default.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ошибка перемещения змейки</find>
+      <find>header-background.jpg</find>
+      <find>get</find>
+      <find>&quot;start&quot;</find>
+      <find>banner-text</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/images/snake.svg" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/css.css" />
+        <option value="$PROJECT_DIR$/shake.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
+        <option value="$PROJECT_DIR$/css/default.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/snake.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="31" />
+    <option name="width" value="1500" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="snake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Azat\WebstormProjects\snake\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index2.html">
+    <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/snake/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/snake/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index2.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d410445-b2e8-4d40-928c-eea7d8a6e044" name="Default Changelist" comment="" />
+      <created>1566164445440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566164445440</updated>
+      <workItem from="1566164447393" duration="6978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6978000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.08992416" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/waypoints.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1893">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="78" column="29" selection-start-line="16" selection-end-line="78" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="645" column="9" lean-forward="true" selection-start-line="645" selection-start-column="9" selection-end-line="645" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#a#0;n#h2#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/snake.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
