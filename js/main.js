@@ -649,7 +649,7 @@ class Game{
 		getById("mainStart").style.display = "none";
 		this.initBlock();
 		this.controller = new gameController();
-		this.controller.addSnake(6, 4, 5, "down", "first", "red");
+		this.controller.addSnake(6, 4, 5, "down", "first", "pink");
 		this.controller.setControl(this.snakesControllerType, 'first',  true);
 		//this.controller.addSnake(4, 4, 5, "down", "second", "green");
 		//this.controller.setControl('character', "second", true);
